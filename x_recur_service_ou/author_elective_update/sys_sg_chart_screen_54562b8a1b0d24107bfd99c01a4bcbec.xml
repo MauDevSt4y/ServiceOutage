@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Configuration Item Icon">0c566f4a1b0d24107bfd99c01a4bcb25</icon>
+        <name>Configuration Item</name>
+        <report/>
+        <roles_override>itil</roles_override>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-14 18:31:51</sys_created_on>
+        <sys_id>54562b8a1b0d24107bfd99c01a4bcbec</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Configuration Item</sys_name>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_54562b8a1b0d24107bfd99c01a4bcbec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-14 18:32:20</sys_updated_on>
+        <type>PA</type>
+        <use_last_point>true</use_last_point>
+        <widget display_value="% Monitored CIs">974bb428d7951200eaae68150e61034d</widget>
+    </sys_sg_chart_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</application>
+        <file_path/>
+        <instance_id>ad9e0756dbfa530052e3f70fbf9619e9</instance_id>
+        <instance_name>recursosadministratosysinergiatecnologicasadecvslsdemo1</instance_name>
+        <name>sys_sg_chart_screen_54562b8a1b0d24107bfd99c01a4bcbec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen"><sys_sg_chart_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="Configuration Item Icon">0c566f4a1b0d24107bfd99c01a4bcb25</icon><name>Configuration Item</name><report/><roles_override>itil</roles_override><sys_class_name>sys_sg_chart_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-14 18:31:51</sys_created_on><sys_id>54562b8a1b0d24107bfd99c01a4bcbec</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Configuration Item</sys_name><sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package><sys_policy/><sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope><sys_update_name>sys_sg_chart_screen_54562b8a1b0d24107bfd99c01a4bcbec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-14 18:32:20</sys_updated_on><type>PA</type><use_last_point>true</use_last_point><widget display_value="% Monitored CIs">974bb428d7951200eaae68150e61034d</widget></sys_sg_chart_screen></record_update>]]></payload>
+        <payload_hash>-93041667</payload_hash>
+        <record_name>Configuration Item</record_name>
+        <reverted_from/>
+        <source>e194db4ddb49e4102dd89015ca961915</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-14 18:32:20</sys_created_on>
+        <sys_id>d3a92f8e1b0d24107bfd99c01a4bcbaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17662865ac00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-14 18:32:20</sys_updated_on>
+        <type>Chart screen</type>
+        <update_guid>1ba92f8e710d24108e9bdc06fa0831ae</update_guid>
+        <update_guid_history>1ba92f8e710d24108e9bdc06fa0831ae:-93041667,dc996b8e5d0d2410c363d1202ee12f68:-572946273</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 14:26:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_chart_screen">sys_sg_chart_screen</sys_db_object>
+        <sys_id>14e4241a2e184c08a77b8037510a5240</sys_id>
+        <sys_metadata>54562b8a1b0d24107bfd99c01a4bcbec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Configuration Item</sys_name>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_scope_delete display_value="">2e13696c38234a94bbbe9f21056d6c90</sys_scope_delete>
+        <sys_update_name>sys_sg_chart_screen_54562b8a1b0d24107bfd99c01a4bcbec</sys_update_name>
+        <sys_update_version display_value="sys_sg_chart_screen_54562b8a1b0d24107bfd99c01a4bcbec">d3a92f8e1b0d24107bfd99c01a4bcbaf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 14:26:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

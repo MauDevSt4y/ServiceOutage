@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Dynamic List Applet for Reports Icon">50eda683db4160502dd89015ca961900</icon>
+        <item_view display_value="Dynamic List Applet for Reports Header Item View">58eda683db4160502dd89015ca961927</item_view>
+        <name>Dynamic List Applet for Reports</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 16:45:00</sys_created_on>
+        <sys_id>98eda683db4160502dd89015ca961929</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Dynamic List Applet for Reports</sys_name>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_update_name>sys_sg_form_screen_98eda683db4160502dd89015ca961929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 16:52:12</sys_updated_on>
+        <table>em_alert</table>
+    </sys_sg_form_screen>
+</record_update>

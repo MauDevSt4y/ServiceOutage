@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_business_app" version="2" view="RPT63c24fd5dbc928102dd89015ca9619d7">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>27c24fd5dbc928102dd89015ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>application_type</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>bfc24fd5dbc928102dd89015ca9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>business_criticality</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>b3c24fd5dbc928102dd89015ca9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_classification</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>b7c24fd5dbc928102dd89015ca9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>contract_end_date</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>bbc24fd5dbc928102dd89015ca9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>bfc24fd5dbc928102dd89015ca9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>active_user_count</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>b3c24fd5dbc928102dd89015ca9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>install_status</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>b7c24fd5dbc928102dd89015ca9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user_base</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>bbc24fd5dbc928102dd89015ca9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_change_date</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>bfc24fd5dbc928102dd89015ca9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>it_application_owner</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>b3c24fd5dbc928102dd89015ca9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>owned_by</element>
+            <list_id display_value="cmdb_ci_business_app" element="NULL" name="cmdb_ci_business_app" parent="NULL" relationship="NULL" sys_domain="global" view="ebc24fd5dbc928102dd89015ca9619db">6fc24fd5dbc928102dd89015ca9619f5</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_id>b7c24fd5dbc928102dd89015ca9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_business_app</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-12 07:47:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6fc24fd5dbc928102dd89015ca9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_business_app</sys_name>
+            <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_ci_business_app_RPT63c24fd5dbc928102dd89015ca9619d7</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-12 07:47:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt63c24fd5dbc928102dd89015ca9619d7" name="RPT63c24fd5dbc928102dd89015ca9619d7">ebc24fd5dbc928102dd89015ca9619db</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

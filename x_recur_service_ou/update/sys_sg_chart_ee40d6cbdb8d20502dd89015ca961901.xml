@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to Dynamic  List Applet">b6307247db4160502dd89015ca961916</jump_to_screen>
+        <name>Open Critcal Alerts</name>
+        <report display_value="Open Critical Alerts">96ff02cbdb8d20502dd89015ca961982</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 14:37:10</sys_created_on>
+        <sys_id>ee40d6cbdb8d20502dd89015ca961901</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Open Critcal Alerts</sys_name>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_update_name>sys_sg_chart_ee40d6cbdb8d20502dd89015ca961901</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 17:41:35</sys_updated_on>
+        <title>High Critical Application Alerts</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

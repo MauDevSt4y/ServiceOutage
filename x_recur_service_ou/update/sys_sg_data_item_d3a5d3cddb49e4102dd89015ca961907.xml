@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Service Outage Alert</name>
+        <query_condition table="em_alert">severity=1^sn_priority_groupIN1,2^state!=Closed<item display_value="Critical" endquery="false" field="severity" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item display_value="1,2" endquery="false" field="sn_priority_group" goto="false" newquery="false" operator="IN" or="false" value="1,2"/>
+            <item display_value="Closed" endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="Closed"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 14:31:02</sys_created_on>
+        <sys_id>d3a5d3cddb49e4102dd89015ca961907</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Service Outage Alert</sys_name>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_update_name>sys_sg_data_item_d3a5d3cddb49e4102dd89015ca961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 15:02:15</sys_updated_on>
+        <table>em_alert</table>
+    </sys_sg_data_item>
+</record_update>

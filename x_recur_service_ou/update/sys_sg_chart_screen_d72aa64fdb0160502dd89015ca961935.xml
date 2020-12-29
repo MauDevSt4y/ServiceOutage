@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Open Critical Alerts Icon">872a224fdb0160502dd89015ca9619af</icon>
+        <name>Open Critical Alerts</name>
+        <report display_value="Open Critical Alerts">96ff02cbdb8d20502dd89015ca961982</report>
+        <roles_override/>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 16:29:39</sys_created_on>
+        <sys_id>d72aa64fdb0160502dd89015ca961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open Critical Alerts</sys_name>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_d72aa64fdb0160502dd89015ca961935</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 16:29:39</sys_updated_on>
+        <type>report</type>
+        <use_last_point>true</use_last_point>
+        <widget/>
+    </sys_sg_chart_screen>
+</record_update>

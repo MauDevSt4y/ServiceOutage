@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to Dynamic  List Applet">b6307247db4160502dd89015ca961916</jump_to_screen>
+        <name>Automated Alerts</name>
+        <report display_value="Automated Alerts">064b3a471b8168107bfd99c01a4bcb3c</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 15:53:26</sys_created_on>
+        <sys_id>12d1ae43db0160502dd89015ca96193c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Automated Alerts</sys_name>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_update_name>sys_sg_chart_12d1ae43db0160502dd89015ca96193c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 17:46:08</sys_updated_on>
+        <title>Automated Alerts</title>
+        <type>report</type>
+        <widget display_value="Alerts Backlog">10346247db0160502dd89015ca96196f</widget>
+    </sys_sg_chart>
+</record_update>

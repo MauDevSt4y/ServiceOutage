@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Remediation Actions</name>
+        <query_condition table="em_alert_management_rule">name=Repair the service and restart^ORname=Create Incident Manually<item endquery="false" field="name" goto="false" newquery="false" operator="=" or="false" value="Repair the service and restart"/>
+            <item endquery="false" field="name" goto="false" newquery="false" operator="=" or="true" value="Create Incident Manually"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-17 17:59:23</sys_created_on>
+        <sys_id>f5ee328b1b8168107bfd99c01a4bcbc3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Remediation Actions</sys_name>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_update_name>sys_sg_data_item_f5ee328b1b8168107bfd99c01a4bcbc3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-17 17:59:27</sys_updated_on>
+        <table>em_alert_management_rule</table>
+    </sys_sg_data_item>
+</record_update>

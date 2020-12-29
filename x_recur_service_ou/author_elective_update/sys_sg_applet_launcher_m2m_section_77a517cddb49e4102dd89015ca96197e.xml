@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Service Outage">93a5d3cddb49e4102dd89015ca961902</applet_launcher>
+        <order>60</order>
+        <section display_value="Event">ffa517cddb49e4102dd89015ca96197c</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 14:31:04</sys_created_on>
+        <sys_id>77a517cddb49e4102dd89015ca96197e</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_77a517cddb49e4102dd89015ca96197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 18:12:43</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</application>
+        <file_path/>
+        <instance_id>ad9e0756dbfa530052e3f70fbf9619e9</instance_id>
+        <instance_name>recursosadministratosysinergiatecnologicasadecvslsdemo1</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_77a517cddb49e4102dd89015ca96197e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Service Outage">93a5d3cddb49e4102dd89015ca961902</applet_launcher><order>60</order><section display_value="Event">ffa517cddb49e4102dd89015ca96197c</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-11 14:31:04</sys_created_on><sys_id>77a517cddb49e4102dd89015ca96197e</sys_id><sys_mod_count>9</sys_mod_count><sys_name/><sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package><sys_policy/><sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_77a517cddb49e4102dd89015ca96197e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-21 18:12:43</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>699931430</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e194db4ddb49e4102dd89015ca961915</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 18:12:43</sys_created_on>
+        <sys_id>00586f54db55e4502dd89015ca9619a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1768680e5e10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 18:12:43</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>c4586f549155e4500038f421979ddaa3</update_guid>
+        <update_guid_history>c4586f549155e4500038f421979ddaa3:699931430,3770d75890d1e45040895da84cf29307:615121959,c9cf76cb91816810542e1e26c8014586:699931430,cb77268b89016050ff6aef36e62b731f:784740901,10a416435bcd2050e95cf08235b361dd:869550372,be215a0f1b8d2050603b1e13edfb688a:699931430,80c2ef46fd0d24108849c168ca85a68e:784740901,41622f46f40d24104e3aaba3aaf6e709:869550372,ae122746440d24103ddd42ef4077b985:954359843,f4b597cd4149e4108a537405e090f9c1:-2144429598</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 18:12:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>09e106d6358348aca39220c1832b6811</sys_id>
+        <sys_metadata>77a517cddb49e4102dd89015ca96197e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_scope_delete display_value="">2e13696c38234a94bbbe9f21056d6c90</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_77a517cddb49e4102dd89015ca96197e</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_77a517cddb49e4102dd89015ca96197e">00586f54db55e4502dd89015ca9619a4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 18:12:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>SNMP Application Service</name>
+        <query_condition table="cmdb_ci_windows_service">cmdb_ci=f9fec0ff1b2860507bfd99c01a4bcbb3^name=SNMPTRAP<item display_table="cmdb_ci" display_value="Win-njl97av5ne2" endquery="false" field="cmdb_ci" goto="false" newquery="false" operator="=" or="false" value="f9fec0ff1b2860507bfd99c01a4bcbb3"/>
+            <item endquery="false" field="name" goto="false" newquery="false" operator="=" or="false" value="SNMPTRAP"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-21 16:26:27</sys_created_on>
+        <sys_id>6fff0b18dbd1e4502dd89015ca961946</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SNMP Application Service</sys_name>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_update_name>sys_sg_data_item_6fff0b18dbd1e4502dd89015ca961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-21 16:31:46</sys_updated_on>
+        <table>cmdb_ci_windows_service</table>
+    </sys_sg_data_item>
+</record_update>

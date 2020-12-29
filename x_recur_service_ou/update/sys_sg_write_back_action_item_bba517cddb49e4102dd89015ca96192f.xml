@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (Event)</name>
+        <query_condition table="em_event">sys_idSTARTSWITH{{Event sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{Event sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 14:31:04</sys_created_on>
+        <sys_id>bba517cddb49e4102dd89015ca96192f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit (Event)</sys_name>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_bba517cddb49e4102dd89015ca96192f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-11 14:31:04</sys_updated_on>
+        <table>em_event</table>
+        <template>additional_info={{Event additional_info}}^alert={{Event alert}}^bucket={{Event bucket}}^ci_identifier={{Event ci_identifier}}^ci_type={{Event ci_type}}^classification={{Event classification}}^cmdb_ci={{Event cmdb_ci}}^description={{Event description}}^error_msg={{Event error_msg}}^event_class={{Event event_class}}^event_rule={{Event event_rule}}^message_key={{Event message_key}}^metric_name={{Event metric_name}}^node={{Event node}}^processed={{Event processed}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+</record_update>

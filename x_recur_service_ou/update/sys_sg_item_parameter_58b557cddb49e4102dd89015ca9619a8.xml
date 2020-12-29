@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Dashboard managed_publisher</name>
+        <parent>5cb557cddb49e4102dd89015ca96199d</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 14:31:06</sys_created_on>
+        <sys_id>58b557cddb49e4102dd89015ca9619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard managed_publisher</sys_name>
+        <sys_package display_value="Service Outage" source="x_recur_service_ou">2594db4ddb49e4102dd89015ca961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Outage">2594db4ddb49e4102dd89015ca961912</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_58b557cddb49e4102dd89015ca9619a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-11 14:31:06</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>
